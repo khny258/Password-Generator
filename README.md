@@ -2,6 +2,14 @@
 
 https://khny258.github.io/Password-Generator/
 
+<strong>Desktop</strong>
+<br>
+<img src="desktop.png">
+
+<strong>Mobile</strong>
+<br>
+<img src="mobile.png">
+
 Requirements for the Password Generator:
 
 1) The new password that is generated has to be secure. 
