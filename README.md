@@ -4,11 +4,11 @@ https://khny258.github.io/Password-Generator/
 
 <strong>Desktop</strong>
 <br>
-<img src="desktop.png">
+<img src="assets/desktop.png">
 
 <strong>Mobile</strong>
 <br>
-<img src="mobile.png">
+<img src="assets/mobile.png">
 
 Requirements for the Password Generator:
 
